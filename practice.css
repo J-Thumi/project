@@ -1,0 +1,7 @@
+#menu{
+    
+    display: flex;
+    flex-flow: nowrap;
+    text-align: start;
+    justify-content: space-between;
+}
